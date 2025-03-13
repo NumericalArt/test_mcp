@@ -11,6 +11,6 @@ Team Members for Vizit-card-NumArt Project:
 
 3. Илон Маск
    Role: Junior Developer
-   Responsibilities: Basic programming
+   Responsibilities: Basic programming, AI research
 
 Additional team members can be added as the project grows. 
