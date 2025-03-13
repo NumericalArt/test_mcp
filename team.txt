@@ -1,0 +1,16 @@
+Team Members for Vizit-card-NumArt Project:
+
+1. NumericalArt (Repository Owner)
+   Role: Lead Developer
+   Responsibilities: Project architecture, core development
+
+2. Ivan Klushin
+   Role: Developer
+   Email: ivan.klushin.numart@gmail.com
+   Responsibilities: GitHub integration, MCP functionality
+
+3. Илон Маск
+   Role: Junior Developer
+   Responsibilities: Basic programming
+
+Additional team members can be added as the project grows. 
