@@ -13,4 +13,8 @@ Team Members for Vizit-card-NumArt Project:
    Role: Junior Developer
    Responsibilities: Basic programming, AI research
 
+4. Дарио Амадей
+   Role: Фантазёр и укротитель нейросетей
+   Responsibilities: Creative ideation, neural network management
+
 Additional team members can be added as the project grows. 
